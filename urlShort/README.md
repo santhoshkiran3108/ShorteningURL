@@ -48,10 +48,15 @@ Running using docker file:
 Running on local server:
 -------------------------
 1.First clone the application from the GIT
+
 2.Open project in your favorite editor and change application.properties file to point to your H2 database
+
 3.Run Spring project as Java application
+
 4.In the console we can find the jdbc driver for the H2 database.
+
 5.Open localhost:8080/ to see the landing page of the application.
+
 6.Open localhost:8080/H2-console and paste the JDBC driver here to access the H2 database
 
 
